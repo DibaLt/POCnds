@@ -190,42 +190,18 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: -3625359151697691767, guid: a89808012db4207439a0b38dffaad166, type: 3}
-      propertyPath: m_Name
-      value: Pezzo3
-      objectReference: {fileID: 0}
-    - target: {fileID: -2616048521599236511, guid: a89808012db4207439a0b38dffaad166, type: 3}
-      propertyPath: m_Name
-      value: Pezzo4
-      objectReference: {fileID: 0}
-    - target: {fileID: -2239573526290633702, guid: a89808012db4207439a0b38dffaad166, type: 3}
-      propertyPath: m_Name
-      value: Pezzo1
-      objectReference: {fileID: 0}
     - target: {fileID: -1897630461457536545, guid: a89808012db4207439a0b38dffaad166, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 641d50ed65ef3974ba5cc60e62cbaef0, type: 2}
-    - target: {fileID: -1187584638923884183, guid: a89808012db4207439a0b38dffaad166, type: 3}
-      propertyPath: m_Name
-      value: Pezzo5
-      objectReference: {fileID: 0}
-    - target: {fileID: -663730032069841019, guid: a89808012db4207439a0b38dffaad166, type: 3}
-      propertyPath: m_Name
-      value: Pezzo6
-      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a89808012db4207439a0b38dffaad166, type: 3}
       propertyPath: m_Name
-      value: Roccia7pz
+      value: roccia7pz
       objectReference: {fileID: 0}
     - target: {fileID: 1324611116288196590, guid: a89808012db4207439a0b38dffaad166, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 641d50ed65ef3974ba5cc60e62cbaef0, type: 2}
-    - target: {fileID: 1631110436824559599, guid: a89808012db4207439a0b38dffaad166, type: 3}
-      propertyPath: m_Name
-      value: Pezzo2
-      objectReference: {fileID: 0}
     - target: {fileID: 2483283391511253938, guid: a89808012db4207439a0b38dffaad166, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -234,10 +210,6 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 641d50ed65ef3974ba5cc60e62cbaef0, type: 2}
-    - target: {fileID: 4804483626797600297, guid: a89808012db4207439a0b38dffaad166, type: 3}
-      propertyPath: m_Name
-      value: Pezzo7
-      objectReference: {fileID: 0}
     - target: {fileID: 5499569825934927185, guid: a89808012db4207439a0b38dffaad166, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -251,66 +223,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a89808012db4207439a0b38dffaad166, type: 3}
---- !u!1001 &94485158
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 693
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1437
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1227
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      propertyPath: m_Name
-      value: Piedicavallo
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 358672176}
-  m_SourcePrefab: {fileID: 100100000, guid: 176edcce18c76e14a9af66620079b322, type: 3}
 --- !u!1 &144254102
 GameObject:
   m_ObjectHideFlags: 0
@@ -705,38 +617,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 336426667}
   m_CullTransparentMesh: 1
---- !u!1 &358672175 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 176edcce18c76e14a9af66620079b322, type: 3}
-  m_PrefabInstance: {fileID: 94485158}
-  m_PrefabAsset: {fileID: 0}
---- !u!54 &358672176
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 358672175}
-  serializedVersion: 4
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_CenterOfMass: {x: 0, y: 0, z: 0}
-  m_InertiaTensor: {x: 1, y: 1, z: 1}
-  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ImplicitCom: 1
-  m_ImplicitTensor: 1
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!1 &421848383
 GameObject:
   m_ObjectHideFlags: 0
@@ -1752,71 +1632,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd28f23af44f73f4a95e33435872ad15, type: 3}
---- !u!1001 &938622110
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 11.53
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.125
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -2.87
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -2365642950474440402, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_Name
-      value: Pezzo2
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_Name
-      value: Roccia2pz
-      objectReference: {fileID: 0}
-    - target: {fileID: 3692254488790982148, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
-      propertyPath: m_Name
-      value: Pezzo1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c517a9704e2c07d49b1fd769dfa4d04f, type: 3}
 --- !u!1 &967567311
 GameObject:
   m_ObjectHideFlags: 0
@@ -5142,5 +4957,3 @@ SceneRoots:
   - {fileID: 876656115}
   - {fileID: 3953970342977539823}
   - {fileID: 15901708}
-  - {fileID: 938622110}
-  - {fileID: 94485158}
