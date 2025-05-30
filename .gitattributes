@@ -1,3 +1,4 @@
 Meglio.tif filter=lfs diff=lfs merge=lfs -text
 GOOGLE_SAT_WM[[:space:]]1.tif filter=lfs diff=lfs merge=lfs -text
 GoogleMap14meshata.blend filter=lfs diff=lfs merge=lfs -text
+ValleCervoAerea.tif filter=lfs diff=lfs merge=lfs -text
