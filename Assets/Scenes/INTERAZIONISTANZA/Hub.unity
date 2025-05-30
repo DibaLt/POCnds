@@ -14887,7 +14887,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &665940032
 RectTransform:
   m_ObjectHideFlags: 0
@@ -28370,7 +28370,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1234553706
 RectTransform:
   m_ObjectHideFlags: 0
@@ -36961,7 +36961,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1578048041
 RectTransform:
   m_ObjectHideFlags: 0
@@ -49051,9 +49051,21 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3192198689051011694, guid: d8a3ad143eae60549b1108d95d623de2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3202604887857720337, guid: d8a3ad143eae60549b1108d95d623de2, type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3519165853770491434, guid: d8a3ad143eae60549b1108d95d623de2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3552807815135910990, guid: d8a3ad143eae60549b1108d95d623de2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3750396166879784326, guid: d8a3ad143eae60549b1108d95d623de2, type: 3}
       propertyPath: m_SizeDelta.x
@@ -50764,6 +50776,10 @@ PrefabInstance:
     - target: {fileID: 4971880283242575256, guid: cd13370cd68ec0143b336f9742c1e595, type: 3}
       propertyPath: m_Name
       value: SpawnTeleportXR2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4971880283242575256, guid: cd13370cd68ec0143b336f9742c1e595, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -53244,6 +53260,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 512039405087823765}
+    - target: {fileID: 8562425973505511268, guid: 97f415e188abe894c8d525741e7642b4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8821410645032851175, guid: 97f415e188abe894c8d525741e7642b4, type: 3}
       propertyPath: m_Enabled
       value: 0
